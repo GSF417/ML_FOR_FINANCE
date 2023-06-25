@@ -12,7 +12,7 @@ torch
 sklearn
 torchmetrics
 
-# DATA
+# DATA / DADOS
 Data used in this project is downloaded during runtime utilizing the yfinance library.
 The time series for PETR4SA were utilized in order to train, validate and test models.
 
