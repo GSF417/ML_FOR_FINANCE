@@ -20,4 +20,4 @@ Os dados utilizados neste projetos são adquiridos durante execução do código
 A série temporal da PETR4SA foi utilizada para treinar, validar e testar os modelos.
 
 # VIDEO
-Video para o Workshop de IA 2023 da Unifesp: https://youtu.be/gN18M9Vw-zY
+Video apresentado ao Workshop de IA 2023 da Unifesp: https://youtu.be/gN18M9Vw-zY
